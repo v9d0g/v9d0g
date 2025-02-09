@@ -1,7 +1,7 @@
 ```sh
 v9d0g@ubuntu:/$ whoami
 ```
-- 🤫CS noob. CTF(Web、Crypto) enthusiasts.
+- CS noob. CTF(Web、Crypto) enthusiasts.
 ```sh
 v9d0g@ubuntu:/$ pwd
 ```
@@ -9,7 +9,7 @@ v9d0g@ubuntu:/$ pwd
 ```sh
 v9d0g@ubuntu:/$ cat hobby.txt
 ```
-- 😚[EDU SRC site](https://src.sjtu.edu.cn/profile/25352/)
+- [EDU SRC site](https://src.sjtu.edu.cn/profile/25352/)
 ```sh
 v9d0g@ubuntu:/$ history
 ```
