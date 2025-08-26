@@ -3,10 +3,6 @@ v9d0g@ubuntu:/$ whoami
 ```
 - CS noob. CTF(Web、Crypto) enthusiasts.
 ```sh
-v9d0g@ubuntu:/$ pwd
-```
-- /Interning_at_huawei👀
-```sh
 v9d0g@ubuntu:/$ cat hobby.txt
 ```
 - [EDU SRC site](https://src.sjtu.edu.cn/profile/25352/)
